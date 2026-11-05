@@ -1,0 +1,6 @@
+{
+  "name": "M.I.C.D School",
+  "description": "M.I.C.D School Management App with Admin, Teacher, Student, and Parent panels, AI School Assistant, Study Notes Library, and Examination System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
